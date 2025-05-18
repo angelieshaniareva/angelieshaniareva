@@ -42,12 +42,12 @@
 
 ### 🧰 My Tech Toolbox
 
-#### • Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
+#### • Programming  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 #### • Web Dev
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -87,7 +87,7 @@
 <p align="center">
   <a href="mailto:e0985897@u.nus.edu"><img src="https://img.shields.io/badge/e0985897@u.nus.edu-red?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="mailto:reva.angelieshania@gmail.com"><img src="https://img.shields.io/badge/reva.angelieshania@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/angelie-shania-reva-757048166/"><img src="https://img.shields.io/badge/LinkedIn-AngelieShania-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/angelie-shania-reva-757048166/"><img src="https://img.shields.io/badge/LinkedIn-Angelie Shania Reva-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://github.com/angelieshaniareva"><img src="https://img.shields.io/badge/GitHub-angelieshaniareva-black?style=flat-square&logo=github"></a>
 </p>
 
