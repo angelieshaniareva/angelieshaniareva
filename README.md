@@ -7,7 +7,7 @@
 
 ---
 
-### 💼 Projects I'm proud of
+### 💼 Milestone Projects
 
 📌 **[AI-Powered E-Commerce Chatbot](https://github.com/angelieshaniareva/7-teens-DSA3101-2410-Project)**  </br>
 *Tech: Python, FastAPI, Hugging Face Transformers, Streamlit*  
