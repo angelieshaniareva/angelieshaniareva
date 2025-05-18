@@ -9,27 +9,27 @@
 
 ### 💼 Projects I'm proud of
 
-📌 **[AI-Powered E-Commerce Chatbot](https://github.com/angelieshaniareva/7-teens-DSA3101-2410-Project)**  
+📌 **[AI-Powered E-Commerce Chatbot](https://github.com/angelieshaniareva/7-teens-DSA3101-2410-Project)**  </br>
 *Tech: Python, FastAPI, Hugging Face Transformers, Streamlit*  
 → Developed a DialoGPT-powered chatbot to automate customer service (product queries, order tracking, personalized suggestions).  
 → Integrated context-aware multi-turn dialogue, built REST API endpoints for feedback collection, and created an interactive Streamlit front-end.
 
-📌 **[Bias Detection in News Articles](https://github.com/angelieshaniareva/news-bias-detection)**  
+📌 **[Bias Detection in News Articles](https://github.com/angelieshaniareva/news-bias-detection)**  </br>
 *Tech: Python, Scikit-learn, BERTopic, Hugging Face, Plotly*  
 → Analyzed 40,000+ articles for political bias using LDA, NMF, and BERTopic.  
 → Built pipelines for TF-IDF, sentiment analysis (RoBERTa, TextBlob), and trained classifiers (SVM, Naive Bayes, BERT) reaching up to 79.5% accuracy.
 
-📌 **[E-Commerce Optimization & Analysis](https://github.com/angelieshaniareva/7-teens-DSA3101-2410-Project)**  
+📌 **[E-Commerce Optimization & Analysis](https://github.com/angelieshaniareva/7-teens-DSA3101-2410-Project)**  </br>
 *Tech: Python*  
 → Conducted churn analysis, customer segmentation, and ROI evaluation across marketing channels.  
 → Built forecasting models and pricing algorithms to improve retention and inventory efficiency.
 
-📌 **[Traffic Accident Dashboard](https://github.com/angelieshaniareva/Montgomery-Traffic-Accident-Dashboard/tree/main/G2T1_trafficinsights)** 
+📌 **[Traffic Accident Dashboard](https://github.com/angelieshaniareva/Montgomery-Traffic-Accident-Dashboard/tree/main/G2T1_trafficinsights)** </br>
 *Tech: Tableau, Python, D3.js*  
 → Created animated dashboards & geospatial crash heatmaps for 59K+ records.  
 → Used D3.js to identify high-risk zones and provide actionable insights for policymakers.
 
-📌 **[San Francisco Rental Visualization](https://github.com/angelieshaniareva/Algorithmic-Solutions-Collection/blob/main/R%20Data%20Visualization%20Project_San%20Francisco%20Rental%20Price.Rmd)**  
+📌 **[San Francisco Rental Visualization](https://github.com/angelieshaniareva/Algorithmic-Solutions-Collection/blob/main/R%20Data%20Visualization%20Project_San%20Francisco%20Rental%20Price.Rmd)** </br>
 *Tech: R (ggplot2)*  
 → Cleaned, aggregated, and visualized rental data using interactive charts and maps.
 
