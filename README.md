@@ -2,7 +2,7 @@
 <h3 align="center">Data Science & Analytics Student | AI Enthusiast | Business-Driven Data Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&width=500&lines=Turning+Data+into+Business+Decisions...;Driven+by+Curiosity+%26+Code;Passionate+About+Analytics+%7C+AI+%7C+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&width=500&lines=Turning+Data+into+Business+Decisions...;Driven+by+Curiosity+%26+Code;Passionate+about+Analytics+%7C+AI+%7C+Impact" alt="Typing SVG" />
 </p>
 
 ---
@@ -70,15 +70,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Adobe Experience Manager](https://img.shields.io/badge/AEM-FF0000?style=flat&logo=adobe&logoColor=white)
+![Adobe Experience Manager](https://img.shields.io/badge/AdobeExperienceManager-FF0000?style=flat&logo=adobe&logoColor=white)
 
 #### • Databases
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQLWorkbench-00758F?style=flat)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Metabase](https://img.shields.io/badge/Metabase-gray?style=flat)
-![Redash](https://img.shields.io/badge/Redash-gray?style=flat)
 
 ---
 
