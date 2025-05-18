@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angelie Shania Reva</h1>
-<h3 align="center">Data Science & Analytics student | AI Enthusiast | Business-Driven Data Explorer</h3>
+<h3 align="center">Data Science & Analytics Student | AI Enthusiast | Business-Driven Data Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&width=500&lines=Turning+Data+into+Business+Decisions...;Driven+by+Curiosity+%26+Code;Passionate+About+Analytics+%7C+AI+%7C+Impact" alt="Typing SVG" />
@@ -19,17 +19,12 @@
 → Analyzed 40,000+ articles for political bias using LDA, NMF, and BERTopic.  
 → Built pipelines for TF-IDF, sentiment analysis (RoBERTa, TextBlob), and trained classifiers (SVM, Naive Bayes, BERT) reaching up to 79.5% accuracy.
 
-📌 **[E-commerce Optimization & Analysis](https://github.com/angelieshaniareva/7-teens-DSA3101-2410-Project)**  
+📌 **[E-Commerce Optimization & Analysis](https://github.com/angelieshaniareva/7-teens-DSA3101-2410-Project)**  
 *Tech: Python*  
 → Conducted churn analysis, customer segmentation, and ROI evaluation across marketing channels.  
 → Built forecasting models and pricing algorithms to improve retention and inventory efficiency.
 
-📌 **Aircraft Repair Analytics (SAESL)**
-*Tech: Power BI, Excel VBA*  
-→ Designed dashboards analyzing 66M+ rows of engine repair data.  
-→ Increased efficiency by 11%, standardized reporting templates, and supported time-study optimization across processes.
-
-📌 **Traffic Accident Dashboard**  
+📌 **[Traffic Accident Dashboard](https://github.com/angelieshaniareva/Montgomery-Traffic-Accident-Dashboard/tree/main/G2T1_trafficinsights)** 
 *Tech: Tableau, Python, D3.js*  
 → Created animated dashboards & geospatial crash heatmaps for 59K+ records.  
 → Used D3.js to identify high-risk zones and provide actionable insights for policymakers.
@@ -37,6 +32,11 @@
 📌 **[San Francisco Rental Visualization](https://github.com/angelieshaniareva/Algorithmic-Solutions-Collection/blob/main/R%20Data%20Visualization%20Project_San%20Francisco%20Rental%20Price.Rmd)**  
 *Tech: R (ggplot2)*  
 → Cleaned, aggregated, and visualized rental data using interactive charts and maps.
+
+📌 **Aircraft Repair Analytics (SAESL)** </br>
+*Tech: Power BI, Excel VBA*  
+→ Designed dashboards analyzing 66M+ rows of engine repair data.  
+→ Increased efficiency by 11%, standardized reporting templates, and supported time-study optimization across processes.
 
 ---
 
@@ -97,7 +97,7 @@
 
 - 🧩 I love solving real-world puzzles through data and automation
 - 🌐 Multilingual: I speak English, Mandarin, and Bahasa Indonesia
-- 🧶 Outside tech, I enjoy organizing community events and teaching
+- 🧶 Outside tech, I enjoy organizing community events, teaching, and exploring new cultures through travel.
 
 > _"Data is a precious thing and will last longer than the systems themselves."_ – Tim Berners-Lee
 
