@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Angelie Shania Reva</h1>
+<h1 align="center">Hi <span style="animation: wave 2s infinite;">👋</span>, I'm Angelie Shania Reva</h1>
 <h3 align="center">Data Science & Analytics Student | AI Enthusiast | Business-Driven Data Explorer</h3>
 
 <p align="center">
@@ -7,9 +7,17 @@
 
 ---
 
+### 🌟 About Me
+
+🎓 I am currently pursuing a **Bachelor of Science (Honours) in Data Science and Analytics** at the **National University of Singapore (NUS)**.  
+💡 Passionate about turning complex data into actionable insights, I have built projects across **AI, analytics, data visualization**, and **real-world business optimization**.  
+📊 Whether it’s building interactive dashboards, training NLP models, or designing scalable chatbots, I love creating tech with purpose.
+
+---
+
 ### 💼 Milestone Projects
 
-📌 **[AI-Powered E-Commerce Chatbot](https://github.com/angelieshaniareva/7-teens-DSA3101-2410-Project)**  </br>
+📌 **[AI-Powered E-Commerce Chatbot](https://github.com/angelieshaniareva/7-teens-DSA3101-2410-Project/tree/main/Chatbot)**  </br>
 *Tech: Python, FastAPI, Hugging Face Transformers, Streamlit*  
 → Developed a DialoGPT-powered chatbot to automate customer service (product queries, order tracking, personalized suggestions).  
 → Integrated context-aware multi-turn dialogue, built REST API endpoints for feedback collection, and created an interactive Streamlit front-end.
@@ -31,7 +39,8 @@
 
 📌 **[San Francisco Rental Visualization](https://github.com/angelieshaniareva/San-Francisco-Rental-Visualization-in-R)** </br>
 *Tech: R (ggplot2)*  
-→ Cleaned, aggregated, and visualized rental data using various charts and maps.
+→ Cleaned, aggregated, and visualized San Francisco rental data using R (`ggplot2`), producing violin plots, line charts, and geospatial maps to uncover regional, temporal, and seasonal pricing trends.
+
 
 📌 **Aircraft Repair Analytics (Singapore Aero Engine Service Private Limited)** </br>
 *Tech: Power BI*  
