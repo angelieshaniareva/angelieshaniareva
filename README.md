@@ -24,17 +24,17 @@
 → Conducted churn analysis, customer segmentation, and ROI evaluation across marketing channels.  
 → Built forecasting models and pricing algorithms to improve retention and inventory efficiency.
 
-📌 **[Traffic Accident Dashboard](https://github.com/angelieshaniareva/Montgomery-Traffic-Accident-Dashboard/tree/main/G2T1_trafficinsights)** </br>
+📌 **[Traffic Accident Analysis Dashboard](https://github.com/angelieshaniareva/Montgomery-Traffic-Accident-Dashboard)** </br>
 *Tech: Tableau, Python, D3.js*  
 → Created animated dashboards & geospatial crash heatmaps for 59K+ records.  
 → Used D3.js to identify high-risk zones and provide actionable insights for policymakers.
 
-📌 **[San Francisco Rental Visualization](https://github.com/angelieshaniareva/Algorithmic-Solutions-Collection/blob/main/R%20Data%20Visualization%20Project_San%20Francisco%20Rental%20Price.Rmd)** </br>
+📌 **[San Francisco Rental Visualization](https://github.com/angelieshaniareva/San-Francisco-Rental-Visualization-in-R)** </br>
 *Tech: R (ggplot2)*  
-→ Cleaned, aggregated, and visualized rental data using interactive charts and maps.
+→ Cleaned, aggregated, and visualized rental data using various charts and maps.
 
-📌 **Aircraft Repair Analytics (SAESL)** </br>
-*Tech: Power BI, Excel VBA*  
+📌 **Aircraft Repair Analytics (Singapore Aero Engine Service Private Limited)** </br>
+*Tech: Power BI*  
 → Designed dashboards analyzing 66M+ rows of engine repair data.  
 → Increased efficiency by 11%, standardized reporting templates, and supported time-study optimization across processes.
 
