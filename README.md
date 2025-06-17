@@ -41,12 +41,6 @@
 *Tech: R (ggplot2)*  
 → Cleaned, aggregated, and visualized San Francisco rental data using R (`ggplot2`), producing violin plots, line charts, and geospatial maps to uncover regional, temporal, and seasonal pricing trends.
 
-
-📌 **Aircraft Repair Analytics (Singapore Aero Engine Service Private Limited)** </br>
-*Tech: Power BI*  
-→ Designed dashboards analyzing 66M+ rows of engine repair data.  
-→ Increased efficiency by 11%, standardized reporting templates, and supported time-study optimization across processes.
-
 ---
 
 ### ⚙️ Tech Stack
