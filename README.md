@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="30" style="display:inline;">, I'm Angelie Shania Reva</h1>
-<h3 align="center">Data Science & Analytics Student | AI Enthusiast | Business-Driven Data Explorer</h3>
+<h3 align="center">Data Science & Analytics Graduate | AI Enthusiast | Business-Driven Data Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&width=500&lines=Turning+Data+into+Business+Decisions...;Driven+by+Curiosity+%26+Code;Passionate+about+Analytics+%7C+AI+%7C+Impact" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 ### 🌟 About Me
 
-🎓 I am currently pursuing a **Bachelor of Science (Honours) in Data Science and Analytics** at the **National University of Singapore (NUS)**.  
+🎓 I hold a **Bachelor of Science (Honours) in Data Science and Analytics** from the **National University of Singapore (NUS)**.  
 💡 Passionate about turning complex data into actionable insights, I have built projects across **AI, analytics, data visualization**, and **real-world business optimization**.  
 📊 Whether it is building interactive dashboards, training NLP models, or designing scalable chatbots, I love creating tech with purpose.
 
