@@ -87,7 +87,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/angelie-shania-reva-757048166/"><img src="https://img.shields.io/badge/LinkedIn-Angelie Shania Reva-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://github.com/angelieshaniareva"><img src="https://img.shields.io/badge/GitHub-angelieshaniareva-black?style=flat-square&logo=github"></a>
-  <a href="mailto:e0985897@u.nus.edu"><img src="https://img.shields.io/badge/e0985897@u.nus.edu-red?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="mailto:angelieshaniareva@u.nus.edu"><img src="https://img.shields.io/badge/angelieshaniareva@u.nus.edu-red?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="mailto:reva.angelieshania@gmail.com"><img src="https://img.shields.io/badge/reva.angelieshania@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
